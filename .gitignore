@@ -1,0 +1,8 @@
+.idea
+__init__.py
+wsgi.py
+virenv
+db.sqlite3
+migrations
+uploads
+
