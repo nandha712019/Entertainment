@@ -48,7 +48,7 @@ CORS_ORIGIN_REGEX_WHITELIST = [
     'http://localhost:3030',
 ]
 
-ROOT_URLCONF = 'Entertainment_App.urls'
+ROOT_URLCONF = 'ent.urls'
 
 TEMPLATES = [
     {
@@ -66,7 +66,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Entertainment_App.wsgi.application'
+WSGI_APPLICATION = 'ent.wsgi.application'
 
 
 # Database

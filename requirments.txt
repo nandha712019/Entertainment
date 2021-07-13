@@ -3,5 +3,6 @@ DjangoRestFramework
 django-rest-registration
 Pillow
 DjangoRestFramework-SimpleJwt
+django-filter
 drf-yasg
 django-cors-headers
