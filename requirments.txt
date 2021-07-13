@@ -1,0 +1,7 @@
+Django
+DjangoRestFramework
+django-rest-registration
+Pillow
+DjangoRestFramework-SimpleJwt
+drf-yasg
+django-cors-headers
